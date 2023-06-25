@@ -1,0 +1,60 @@
+.text-pm{
+    color: rgb(6, 6, 222);
+  
+}
+p{
+    color: grey;
+    text-align: justify;
+
+}
+.bg-pm{
+    background: blue;
+}
+.f-bold{
+    font-weight: 700;
+}
+.f-size{
+    font-size: 46px;
+} p{
+    text-align: justify;
+}
+/* a:hover{
+    color: rgb(190, 129, 156);
+   
+} */
+.text-b{
+    color: black;
+}
+.l-height{
+    line-height: 35px;
+}
+.text-grey{
+    color: grey;
+}
+.lsm-height{
+    line-height: 30px;
+}
+.g-color{
+color: rgb(30, 76, 118);
+}
+.r-color{
+    color: rgb(126, 7, 7);
+}
+.text-c{
+    text-transform:lowercase;
+}
+.text-u{
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+    font-size: 24px;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 33px;
+}
+h2{
+    font-size: 24px;
+    font-weight: 700;
+}
